@@ -7,7 +7,7 @@ Unlike broadcast, multicast traffic only goes to devices that are part of the mu
 
 
 The followint topology will be used:
-![Topology](/home/munia/Multicast-Routing/Topology/Multicast.PNG)
+![Topology](/Topology/Multicast.PNG)
 
 
 Multicast uses the following protocols:
