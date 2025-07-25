@@ -1,4 +1,4 @@
-# Multicast Lab – GNS3 Topology
+# Multicast 
 This project is a basic GNS3 topology to demonstrate multicast communication using PIM Sparse Mode.
 
 ## What is Multicast?
