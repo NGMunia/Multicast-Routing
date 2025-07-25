@@ -6,7 +6,7 @@ Multicast is a way of sending a single stream of data to multiple devices at onc
 Unlike broadcast, multicast traffic only goes to devices that are part of the multicast group.
 
 
-The followint topology will be used:
+The following topology will be used:
 ![Topology](/Topology/Multicast.PNG)
 
 
